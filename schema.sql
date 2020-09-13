@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS quizzly_v2;
+
+CREATE DATABASE quizzly_v2;
